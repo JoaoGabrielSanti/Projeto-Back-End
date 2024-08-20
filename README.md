@@ -1,4 +1,5 @@
 -Integrantes da Equipe-
 
-João Gabriel Santiago de Sousa
+João Gabriel Santiago de Sousa.
+
 Dâmarys Lima Santos
